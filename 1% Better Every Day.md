@@ -15,7 +15,7 @@
 
 ### Be proficient in Python
 - [ ] [Book: A Byte of Python - Swaroop Chitlur](https://python.swaroopch.com)
-- [ ] [Book: Python Crash Course, 2nd Edition - Eric Matthes] (https://smile.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1?crid=43TUMD5TEA1W&dchild=1&keywords=python+crash+course+3rd+edition&qid=1592859866&sprefix=python+cars%2Caps%2C192&sr=8-1)
+- [ ] [Book: Python Crash Course, 2nd Edition - Eric Matthes](https://smile.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1?crid=43TUMD5TEA1W&dchild=1&keywords=python+crash+course+3rd+edition&qid=1592859866&sprefix=python+cars%2Caps%2C192&sr=8-1)
 - [ ] [Codecademy: Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 - [X] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
 - [X] [Treehouse: Introducing Lists](https://teamtreehouse.com/library/introducing-lists)
