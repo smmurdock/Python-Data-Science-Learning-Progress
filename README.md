@@ -36,8 +36,8 @@
 
 ### Be familiar with data science fundamentals
 - [ ] [Codecademy: Data Science Path](https://www.codecademy.com/learn/paths/data-science)
-- [ ] [DataQuest: Python for Data Science: Fundamentals](https://app.dataquest.io/course/python-for-data-science-fundamentals)
-- [ ] [DataQuest: Python for Data Science: Intermediate](https://app.dataquest.io/course/python-for-data-science-intermediate)
+- [ ] [Dataquest: Python for Data Science: Fundamentals](https://app.dataquest.io/course/python-for-data-science-fundamentals)
+- [ ] [Dataquest: Python for Data Science: Intermediate](https://app.dataquest.io/course/python-for-data-science-intermediate)
 
 ### Be able to utilize version control
 - [ ] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
