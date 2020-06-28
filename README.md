@@ -1,6 +1,6 @@
 # Learning
 
-### Broaden Perspective and Domain Knowledge; Habit/Learning Improvement
+### Habit & Learning Improvement
 
 - [ ] [Book: The 7 Habits of Highly Effective People - Stephen R. Covey](https://smile.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137134/ref=sr_1_1_sspa?crid=96GJABIXVKGA&dchild=1&keywords=the+7+habits+of+highly+effective+people&qid=1593369304&s=books&sprefix=the+7+ha%2Cstripbooks%2C196&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTExMWFJQMFo5MktZJmVuY3J5cHRlZElkPUEwODEwOTU3M040QlFNQ1g1T1JFMiZlbmNyeXB0ZWRBZElkPUEwNDEzMjQzMk82WUZFWllJVDUzMiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 - [X] [Book: Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones - James Clear](https://smile.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1591208069&sr=8-3)
@@ -16,12 +16,23 @@
 
 ### Be proficient in Python
 - [ ] [Book: A Byte of Python - Swaroop Chitlur](https://python.swaroopch.com)
+- [ ] [Book: The Python Apprentice - Robert Smallshire & Austin Bingham](https://smile.amazon.com/Python-Apprentice-Robert-Smallshire-dp-1788293185/dp/1788293185/ref=mt_other?_encoding=UTF8&me=&qid=1593375849)
 - [ ] [Book: Python Crash Course, 2nd Edition - Eric Matthes](https://smile.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1?crid=43TUMD5TEA1W&dchild=1&keywords=python+crash+course+3rd+edition&qid=1592859866&sprefix=python+cars%2Caps%2C192&sr=8-1)
 - [ ] [Codecademy: Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+- [ ] [Dataquest: Python for Data Science: Fundamentals](https://app.dataquest.io/course/python-for-data-science-fundamentals)
+- [ ] [Dataquest: Python for Data Science: Intermediate](https://app.dataquest.io/course/python-for-data-science-intermediate)
 - [X] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
 - [X] [Treehouse: Introducing Lists](https://teamtreehouse.com/library/introducing-lists)
 - [X] [Udacity: Introduction to Python Programming](https://classroom.udacity.com/courses/ud1110)
 - [ ] [Udemy: Complete Python Developer in 2020: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
+
+### Be proficient in SQL
+- [ ] [Codecademy: Learn SQL](https://www.codecademy.com/learn/learn-sql)
+- [ ] [Dataquest: SQL Fundamentals](https://app.dataquest.io/course/sql-fundamentals)
+- [ ] [Dataquest: Intermediate SQL for Data Analysis](https://app.dataquest.io/course/sql-joins-relations)
+- [ ] [Dataquest: Advanced SQL for Data Analysis](https://app.dataquest.io/course/sql-databases-advanced)
+- [X] [Treehouse: Beginning SQL](https://teamtreehouse.com/tracks/beginning-sql)
+
 
 ### Be familiar with data science fundamentals
 - [ ] [Codecademy: Data Science Path](https://www.codecademy.com/learn/paths/data-science)
@@ -30,3 +41,5 @@
 
 ### Be able to utilize version control
 - [ ] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+- [ ] [Dataquest: Elements of the Command Line](https://app.dataquest.io/course/command-line-elements)
+- [ ] [Dataquest: Text Processing in the Command Line](https://app.dataquest.io/course/text-processing-cli)
