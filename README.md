@@ -1,6 +1,6 @@
 # Learning
 
-### Broaden Perspective and Domain Knowledge
+### Broaden Perspective and Domain Knowledge; Habit/Learning Improvement
 
 - [ ] [Book: The 7 Habits of Highly Effective People - Stephen R. Covey](https://smile.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137134/ref=sr_1_1_sspa?crid=96GJABIXVKGA&dchild=1&keywords=the+7+habits+of+highly+effective+people&qid=1593369304&s=books&sprefix=the+7+ha%2Cstripbooks%2C196&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTExMWFJQMFo5MktZJmVuY3J5cHRlZElkPUEwODEwOTU3M040QlFNQ1g1T1JFMiZlbmNyeXB0ZWRBZElkPUEwNDEzMjQzMk82WUZFWllJVDUzMiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 - [X] [Book: Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones - James Clear](https://smile.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1591208069&sr=8-3)
