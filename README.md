@@ -14,7 +14,7 @@
 ### Be familiar with ethics in data science
 - [ ] [Book: Automating Inequality - Virginia Eubanks](https://smile.amazon.com/Automating-Inequality-High-Tech-Profile-Police/dp/1250215781/ref=sr_1_1?crid=OWU6GTV6PTZZ&dchild=1&keywords=automating+inequality+by+virginia+eubanks&qid=1593376590&s=books&sprefix=automating+in%2Cstripbooks%2C1204&sr=1-1)
 - [ ] [Book: Race After Technology - Ruha Benjamin](https://smile.amazon.com/Ruha-Benjamin-ebook/dp/B07V6M9VQ5/ref=sr_1_1?crid=CINF2WEQOBVX&dchild=1&keywords=race+after+technology&qid=1593376501&s=books&sprefix=race+after%2Cstripbooks%2C212&sr=1-1)
-- [ ] [Book: Weapons of Math Destruction - Cathy O'Neil](https://smile.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831/ref=sr_1_1?crid=2EQ7BYBPZ0FPY&dchild=1&keywords=weapons+of+math+destruction&qid=1593376351&s=books&sprefix=weapons+o%2Cstripbooks%2C1068&sr=1-1)
+- [X] [Book: Weapons of Math Destruction - Cathy O'Neil](https://smile.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831/ref=sr_1_1?crid=2EQ7BYBPZ0FPY&dchild=1&keywords=weapons+of+math+destruction&qid=1593376351&s=books&sprefix=weapons+o%2Cstripbooks%2C1068&sr=1-1)
 - [ ] [YouTube: Combatting Bias in ML - Ayodele Odubela](https://www.youtube.com/watch?time_continue=26&v=vkV05uSdZmY&feature=emb_logo)
 
 ### Be proficient in Python
